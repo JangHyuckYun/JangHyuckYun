@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on LiST(li-st)
-- 🌱 I’m currently learning Web Basic, React
+- 🌱 I’m currently learning Web Basic, React, Typescript
 - 💬 Ask me about anything!
 - 😄 Pronouns: Sincere, Not give up, Passionate
 
