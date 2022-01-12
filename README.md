@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on LiST(li-st)
+- 🌱 I’m currently learning Web Basic, React
+- 💬 Ask me about anything!
+- 😄 Pronouns: Sincere, Not give up, Passionate
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangHyuckYun&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
@@ -7,12 +12,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on LiST(li-st)
+- 🌱 I’m currently learning Web Basic, React
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: Sincere, Not give up, Passionate
 - ⚡ Fun fact: ...
 -->
