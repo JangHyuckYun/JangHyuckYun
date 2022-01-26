@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Chart.js--FF6384?style=flat&logo=Chart.js&logoColor=FF6384">
 <img src="https://img.shields.io/badge/Java--ffffff?style=flat&logo=Java&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Spring--6DB33F?style=flat&logo=Spring&logoColor=6DB33F">
-<img src="https://img.shields.io/badge/SpringBoot--6DB33F?style=flat&logo=SpringBoot&logoColor=6DB33F">
 <img src="https://img.shields.io/badge/MariaDB--FFFFFF?style=flat&logo=MariaDB&logoColor=FFFFFF">
 </div>
 
