@@ -9,7 +9,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJangHyuckYun&count_bg=%236C52EF&title_bg=%23555555&icon=intellijidea.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 * * *
 
-## Skills
+### Skills
 <img src="https://img.shields.io/badge/HTML--E34F26?style=flat&logo=HTML5&logoColor=E34F26"/>
 <img src="https://img.shields.io/badge/CSS--1572B6?style=flat&logo=CSS3&logoColor=1572B6"/>
 <img src="https://img.shields.io/badge/JS--F7DF1E?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/SpringBoot--6DB33F?style=flat&logo=SpringBoot&logoColor=6DB33F"/>
 <img src="https://img.shields.io/badge/MariaDB--FFFFFF?style=flat&logo=MariaDB&logoColor=FFFFFF"/>
 
-## IDE
+### IDE
 <img src="https://img.shields.io/badge/IntelliJ--FFFFFF?style=flat&logo=IntelliJIDEA&logoColor=FFFFFF"/>
 
 * * *
