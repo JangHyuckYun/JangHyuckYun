@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: Sincere, Not give up, Passionate
 - ⚡ Fun fact: ...
--->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangHyuckYun&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangHyuckYun&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
