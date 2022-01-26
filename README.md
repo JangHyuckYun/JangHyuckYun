@@ -22,10 +22,6 @@
 <img src="https://img.shields.io/badge/MariaDB--FFFFFF?style=flat&logo=MariaDB&logoColor=FFFFFF">
 </div>
 
-### IDE
-<div>
-<img src="https://img.shields.io/badge/IntelliJ--FFFFFF?style=flat&logo=IntelliJIDEA&logoColor=FFFFFF"/>
-</div>
 * * *
 <!--
 **JangHyuckYun/JangHyuckYun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
